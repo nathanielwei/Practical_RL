@@ -1,5 +1,5 @@
 # Installation 
-
+0. If one may install docker and kitematic on Ubuntu, please refer to this first: https://docs.docker.com/install/linux/linux-postinstall/#manage-docker-as-a-non-root-user
 1. docker pull justheuristic/practical_rl
 2. https://hub.docker.com/r/justheuristic/practical_rl/
 
